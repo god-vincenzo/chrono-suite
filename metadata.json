@@ -1,0 +1,6 @@
+{
+  "name": "Aura3D - 3D Portfolio & Global Chrono Suite",
+  "description": "Interactive 3D spatial portfolio with smooth scroll animations, global multi-region world clock, precision stopwatch, multi-ringtone alarm manager, and user profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
